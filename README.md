@@ -13,7 +13,7 @@
 
 - [ Virtual Private Cloud with AWS](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
-- [Python log analyzer](https://github.com/joshmadakor1/Sentinel-Lab)
+- [SOC Automation](https://github.com/joshmadakor1/Sentinel-Lab)
 
 - [Hardening EC2 linux instance with ansible](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
