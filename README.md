@@ -3,7 +3,7 @@
 <h2>👨‍💻  Project Portfolio:</h2>
 
 
-- [Honey Pot Home Lab](https://github.com/Vziraka/Honey-Pot-Homelab)
+- [Threat-Guard-Project](https://github.com/Vziraka/Honey-Pot-Homelab)
 
 - [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
