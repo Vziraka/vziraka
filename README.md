@@ -15,7 +15,7 @@
 
 - [SOC Automation](https://github.com/Vziraka/SOC-automation-project)
 
-- [Hardening EC2 linux instance with ansible](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- [Hardening EC2 linux instance with ansible](https://github.com/Vziraka/Threat-Guard-Project)
 
 <h2>👨‍💻  Certifications:</h2>
 
