@@ -5,7 +5,7 @@
 
 - [Threat-Guard-Project](https://github.com/Vziraka/Threat-Guard-Project)
 
-- [Active Directory](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+- [Azure SOC Homelab ](https://github.com/Vziraka/Azure-SOC-HomeLab) 
 
 - [Threat Detection with AWS](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
@@ -15,7 +15,7 @@
 
 - [SOC Automation](https://github.com/Vziraka/SOC-automation-project)
 
-- [Hardening EC2 linux instance with ansible](https://github.com/Vziraka/Threat-Guard-Project)
+
 
 <h2>👨‍💻  Certifications:</h2>
 
