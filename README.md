@@ -1,45 +1,50 @@
-<h1>Hi, I'm Ensizziyo! <h1>
+<# Hi, I'm Ensizziyo 👋
 
-<h2>👨‍💻  Project Portfolio:</h2>
+I'm an Information Technology student with a strong focus on **Cybersecurity, Cloud Security, and SOC automation**.  
+I enjoy building hands-on security projects that demonstrate real-world detection, monitoring, and cloud security concepts.
 
+---
 
-- [Threat-Guard-Project](https://github.com/Vziraka/Threat-Guard-Project)
+## 👨‍💻 Project Portfolio
 
-- [Azure SOC Homelab ](https://github.com/Vziraka/Azure-SOC-HomeLab) 
+Here are some of the security-focused projects I’ve built and documented on GitHub:
 
-- [Threat Detection with AWS](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- 🔐 **[Threat Guard – AWS GuardDuty Detection](https://github.com/Vziraka/Threat-Guard-Project)**  
+  Simulated a real-world cloud attack scenario and detected credential exfiltration using Amazon GuardDuty.
 
-- [AWS IAM Cloud security](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- 🏠 **[Azure SOC Homelab](https://github.com/Vziraka/Azure-SOC-HomeLab)**  
+  Built a cloud-based SOC homelab using Azure Log Analytics to detect failed login attempts and visualize attacker locations.
 
-- [ Virtual Private Cloud with AWS](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- 🤖 **[SOC Automation – Splunk + n8n + AI](https://github.com/Vziraka/SOC-automation-project)**  
+  Automated SOC alerting using Splunk, n8n, ChatGPT, and Slack for AI-assisted incident triage.
 
-- [SOC Automation](https://github.com/Vziraka/SOC-automation-project)
+- 🌐 **[AWS Virtual Private Cloud (VPC) Security Architecture](#)**  
+  Designed a secure AWS VPC with public/private subnets, endpoints, routing, and network security controls. *(In progress)*
 
+- 🔑 **[AWS IAM & Cloud Security](#)**  
+  Hands-on exploration of IAM policies, least privilege, and identity-based security controls. *(In progress)*
 
+---
 
-<h2>👨‍💻  Certifications:</h2>
+## 📜 Certifications
 
-- [google cybersecurity](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- 🛡️ **Google Cybersecurity Certificate** *(In Progress / Completed — update as needed)*
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="Handshake" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/handshake.svg" />][handshake]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤳 Connect With Me
 
-[handshake]: https://joinhandshake.com/
-[linkedin]: https://linkedin.com/in/joshmadakor
+- 💼 **Handshake:** https://joinhandshake.com/  
+- 🔗 **LinkedIn:** *(Replace with your real LinkedIn URL)*
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔍 Interests
+- SOC Operations & Detection Engineering  
+- Cloud Security (AWS & Azure)  
+- SIEM & Security Automation  
+- DevSecOps & Secure CI/CD  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Thanks for checking out my profile!
