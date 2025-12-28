@@ -18,8 +18,8 @@ Here are some of the security-focused projects I’ve built and documented on Gi
 - 🤖 **[SOC Automation – Splunk + n8n + AI](https://github.com/Vziraka/SOC-automation-project)**  
   Automated SOC alerting using Splunk, n8n, ChatGPT, and Slack for AI-assisted incident triage.
 
-- 🌐 **[AWS Virtual Private Cloud (VPC) Security Architecture](#)**  
-  Designed a secure AWS VPC with public/private subnets, endpoints, routing, and network security controls. *(In progress)*
+- 🌐 **[AWS Virtual Private Cloud (VPC) Security Architecture](https://github.com/Vziraka/AWS-VPC-Networking-Project)**  
+  Designed a secure AWS VPC with public/private subnets, endpoints, routing, and network security controls.
 
 - 🔑 **[AWS IAM & Cloud Security](#)**  
   Hands-on exploration of IAM policies, least privilege, and identity-based security controls. *(In progress)*
