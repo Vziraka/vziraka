@@ -1,4 +1,4 @@
-<# Hi, I'm Ensizziyo 👋
+ Hi, I'm Ensizziyo 👋
 
 I'm an Information Technology student with a strong focus on **Cybersecurity, Cloud Security, and SOC automation**.  
 I enjoy building hands-on security projects that demonstrate real-world detection, monitoring, and cloud security concepts.
@@ -34,8 +34,7 @@ Here are some of the security-focused projects I’ve built and documented on Gi
 
 ## 🤳 Connect With Me
 
-- 💼 **Handshake:** https://joinhandshake.com/  
-- 🔗 **LinkedIn:** *(Replace with your real LinkedIn URL)*
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/ensizziyo-ziraka-609323344/
 
 ---
 
