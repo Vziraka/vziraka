@@ -21,8 +21,8 @@ Here are some of the security-focused projects I’ve built and documented on Gi
 - 🌐 **[AWS Virtual Private Cloud (VPC) Security Architecture](https://github.com/Vziraka/AWS-VPC-Networking-Project)**  
   Designed a secure AWS VPC with public/private subnets, endpoints, routing, and network security controls.
 
-- 🔑 **[AWS IAM & Cloud Security](#)**  
-  Hands-on exploration of IAM policies, least privilege, and identity-based security controls. *(In progress)*
+- 🔑 **[AWS DevOps CI/CD Pipeline](https://github.com/Vziraka/Devops-web-project)**  
+  implements an end-to-end AWS CI/CD workflow that builds a Java web application (WAR) and deploys it to an EC2 instance running Apache Tomcat.
 
 ---
 
