@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Ensizziyo Ziraka — Mission Control" />
+<img src="./assets/hero.svg" width="100%" alt="Ensizziyo Ziraka — Information Systems Security Engineer at SAP NS2" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -16,28 +16,28 @@ I design and ship **production-grade cloud, security, and Kubernetes systems** �
 
 #### ◤ ARSENAL ◢
 
-![AWS](https://img.shields.io/badge/AWS-0B1020?style=flat-square&logo=amazonaws&logoColor=22D3EE)
-![Azure](https://img.shields.io/badge/Azure-0B1020?style=flat-square&logo=microsoftazure&logoColor=22D3EE)
-![Terraform](https://img.shields.io/badge/Terraform-0B1020?style=flat-square&logo=terraform&logoColor=22D3EE)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0B1020?style=flat-square&logo=kubernetes&logoColor=22D3EE)
-![Docker](https://img.shields.io/badge/Docker-0B1020?style=flat-square&logo=docker&logoColor=22D3EE)
-![Helm](https://img.shields.io/badge/Helm-0B1020?style=flat-square&logo=helm&logoColor=22D3EE)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0B1020?style=flat-square&logo=githubactions&logoColor=22D3EE)
-![Prometheus](https://img.shields.io/badge/Prometheus-0B1020?style=flat-square&logo=prometheus&logoColor=22D3EE)
-![Grafana](https://img.shields.io/badge/Grafana-0B1020?style=flat-square&logo=grafana&logoColor=22D3EE)
-![Splunk](https://img.shields.io/badge/Splunk-0B1020?style=flat-square&logo=splunk&logoColor=22D3EE)
-![Trivy](https://img.shields.io/badge/Trivy-0B1020?style=flat-square&logo=trivy&logoColor=22D3EE)
-![Claude](https://img.shields.io/badge/Claude-0B1020?style=flat-square&logo=anthropic&logoColor=E879F9)
-![Python](https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=22D3EE)
-![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=flat-square&logo=nodedotjs&logoColor=22D3EE)
-![Bash](https://img.shields.io/badge/Bash-0B1020?style=flat-square&logo=gnubash&logoColor=22D3EE)
+![AWS](https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=22D3EE)
+![Azure](https://img.shields.io/badge/Azure-0F172A?style=flat-square&logo=microsoftazure&logoColor=22D3EE)
+![Terraform](https://img.shields.io/badge/Terraform-0F172A?style=flat-square&logo=terraform&logoColor=22D3EE)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=22D3EE)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=22D3EE)
+![Helm](https://img.shields.io/badge/Helm-0F172A?style=flat-square&logo=helm&logoColor=22D3EE)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?style=flat-square&logo=githubactions&logoColor=22D3EE)
+![Prometheus](https://img.shields.io/badge/Prometheus-0F172A?style=flat-square&logo=prometheus&logoColor=22D3EE)
+![Grafana](https://img.shields.io/badge/Grafana-0F172A?style=flat-square&logo=grafana&logoColor=22D3EE)
+![Splunk](https://img.shields.io/badge/Splunk-0F172A?style=flat-square&logo=splunk&logoColor=22D3EE)
+![Trivy](https://img.shields.io/badge/Trivy-0F172A?style=flat-square&logo=trivy&logoColor=22D3EE)
+![Claude](https://img.shields.io/badge/Claude-0F172A?style=flat-square&logo=anthropic&logoColor=E879F9)
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=22D3EE)
+![Bash](https://img.shields.io/badge/Bash-0F172A?style=flat-square&logo=gnubash&logoColor=22D3EE)
 
 #### ◤ TELEMETRY ◢
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vziraka&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=E879F9&text_color=9FB3C8&ring_color=E879F9" alt="stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vziraka&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=9FB3C8&langs_count=8" alt="top languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vziraka&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=E879F9&text_color=94A3B8&ring_color=22D3EE" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vziraka&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vziraka&hide_border=true&background=0B1020&ring=22D3EE&fire=E879F9&currStreakLabel=22D3EE&sideLabels=9FB3C8&dates=5A7CA8&stroke=1C2C4A&sideNums=E6F6FF&currStreakNum=E6F6FF&dayLabels=9FB3C8&currStreakNum=E6F6FF" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vziraka&hide_border=true&background=0F172A&ring=22D3EE&fire=E879F9&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&stroke=334155&sideNums=F8FAFC&currStreakNum=F8FAFC&dayLabels=94A3B8" alt="Contribution streak" />
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -80,13 +80,13 @@ Security-operations automation, security-tool integration via APIs, and vulnerab
 
 ## ▚ CERTIFICATIONS & TRAINING
 
-![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-0B1020?style=flat-square&logo=comptia&logoColor=E879F9&labelColor=0B1020)
-![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Certified-0B1020?style=flat-square&logo=google&logoColor=22D3EE&labelColor=0B1020)
-![AWS Educate](https://img.shields.io/badge/AWS%20Educate-Cloud%20%26%20Security-0B1020?style=flat-square&logo=amazonaws&logoColor=22D3EE&labelColor=0B1020)
-![KodeKloud](https://img.shields.io/badge/KodeKloud-DevOps%20Labs-0B1020?style=flat-square&logo=kubernetes&logoColor=22D3EE&labelColor=0B1020)
+![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-0F172A?style=flat-square&logo=comptia&logoColor=E879F9&labelColor=0F172A)
+![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Certified-0F172A?style=flat-square&logo=google&logoColor=22D3EE&labelColor=0F172A)
+![AWS Educate](https://img.shields.io/badge/AWS%20Educate-Cloud%20%26%20Security-0F172A?style=flat-square&logo=amazonaws&logoColor=22D3EE&labelColor=0F172A)
+![KodeKloud](https://img.shields.io/badge/KodeKloud-DevOps%20Labs-0F172A?style=flat-square&logo=kubernetes&logoColor=22D3EE&labelColor=0F172A)
 
 ## ▚ CONNECT
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/ensizziyo-ziraka/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/ensizziyo-ziraka/)
 
-<div align="center"><sub><code>SOC & Detection Engineering · Cloud Security (AWS/Azure) · Kubernetes Security · DevSecOps · Security Automation</code></sub></div>
+<div align="center"><sub><code>SOC &amp; Detection Engineering · Cloud Security (AWS/Azure) · Kubernetes Security · DevSecOps · Security Automation</code></sub></div>
