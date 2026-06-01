@@ -1,52 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 280" width="860" height="280" fill="none" role="img" aria-label="Ensizziyo Ziraka - Information Systems Security Engineer at SAP NS2">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#080B14"/>
-      <stop offset="1" stop-color="#0B1020"/>
+      <stop offset="0" stop-color="#0B0F1A"/>
+      <stop offset="1" stop-color="#0F172A"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.26" cy="0.30" r="0.95">
-      <stop offset="0" stop-color="#10203F"/>
-      <stop offset="1" stop-color="#070A12" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="mglow" cx="0.9" cy="0.85" r="0.7">
-      <stop offset="0" stop-color="#3A1140" stop-opacity="0.8"/>
-      <stop offset="1" stop-color="#070A12" stop-opacity="0"/>
+      <stop offset="0" stop-color="#15233F"/>
+      <stop offset="1" stop-color="#0B0F1A" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#22D3EE" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.5"/>
+      <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.42"/>
       <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#E6F6FF"/>
-      <stop offset="0.55" stop-color="#67E8F9"/>
-      <stop offset="1" stop-color="#E879F9"/>
+      <stop offset="0" stop-color="#F8FAFC"/>
+      <stop offset="1" stop-color="#67E8F9"/>
     </linearGradient>
     <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
-      <path d="M26 0H0V26" fill="none" stroke="#1C2C4A" stroke-width="1"/>
+      <path d="M26 0H0V26" fill="none" stroke="#1E2A44" stroke-width="1"/>
     </pattern>
     <filter id="neon" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feGaussianBlur stdDeviation="2.1" result="b"/>
       <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
-      .mono{font-family:ui-monospace,'SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;}
+      .mono{font-family:ui-monospace,'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace;}
       .scanbar{animation:scan 5s linear infinite;}
       @keyframes scan{0%{transform:translateY(-44px)}100%{transform:translateY(304px)}}
       .blink{animation:blink 1.05s steps(1) infinite;}
       @keyframes blink{50%{opacity:0}}
       .pulse{animation:pulse 1.8s ease-in-out infinite;}
       @keyframes pulse{0%,100%{opacity:1}50%{opacity:0.3}}
-      .chip{fill:#0E1830;stroke:#22D3EE;stroke-opacity:0.5;}
+      .gc{animation:gc 7s steps(1) infinite;opacity:0;}
+      @keyframes gc{0%,90%,100%{opacity:0;transform:translate(0,0)}91%{opacity:.65;transform:translate(-2px,1px)}93%{opacity:.45;transform:translate(2px,-1px)}95%{opacity:0}}
+      .gm{animation:gm 7s steps(1) infinite;opacity:0;}
+      @keyframes gm{0%,90.5%,100%{opacity:0;transform:translate(0,0)}92%{opacity:.5;transform:translate(2px,-1px)}94%{opacity:.35;transform:translate(-2px,1px)}96%{opacity:0}}
+      .chip{fill:#1E293B;stroke:#22D3EE;stroke-opacity:0.45;}
       .chiptext{fill:#9BE8F7;letter-spacing:2px;}
-      .flick{animation:flick 6s ease-in-out infinite;}
-      @keyframes flick{0%,96%,100%{opacity:1}97%{opacity:0.78}98%{opacity:1}99%{opacity:0.85}}
+      @media (prefers-reduced-motion: reduce){
+        .scanbar,.blink,.pulse,.gc,.gm{animation:none!important}
+        .gc,.gm{opacity:0}
+      }
     </style>
   </defs>
 
   <rect width="860" height="280" rx="14" fill="url(#bg)"/>
-  <rect width="860" height="280" rx="14" fill="url(#grid)" opacity="0.55"/>
-  <rect width="860" height="280" rx="14" fill="url(#mglow)"/>
+  <rect width="860" height="280" rx="14" fill="url(#grid)" opacity="0.6"/>
   <rect width="860" height="280" rx="14" fill="url(#glow)"/>
 
   <rect class="scanbar" x="0" y="0" width="860" height="44" fill="url(#scan)"/>
@@ -64,10 +64,12 @@
     <text class="mono" x="13" y="0" fill="#E879F9" font-size="12" letter-spacing="3">ONLINE</text>
   </g>
 
-  <g class="flick" filter="url(#neon)">
+  <g filter="url(#neon)">
+    <text class="mono gc" x="42" y="122" fill="#22D3EE" font-size="44" font-weight="700" letter-spacing="1">ENSIZZIYO ZIRAKA</text>
+    <text class="mono gm" x="42" y="122" fill="#E879F9" font-size="44" font-weight="700" letter-spacing="1">ENSIZZIYO ZIRAKA</text>
     <text class="mono" x="42" y="122" fill="url(#name)" font-size="44" font-weight="700" letter-spacing="1">ENSIZZIYO ZIRAKA<tspan class="blink" fill="#22D3EE">_</tspan></text>
   </g>
-  <text class="mono" x="44" y="150" fill="#8FB6D9" font-size="13.5" letter-spacing="3">INFORMATION SYSTEMS SECURITY ENGINEER  ·  SAP NS2</text>
+  <text class="mono" x="44" y="150" fill="#9FB6CF" font-size="13.5" letter-spacing="3">INFORMATION SYSTEMS SECURITY ENGINEER  ·  SAP NS2</text>
 
   <g class="mono" font-size="12">
     <g transform="translate(44,176)"><rect class="chip" width="92" height="30" rx="6"/><text class="chiptext" x="46" y="20" text-anchor="middle">CLOUD</text></g>
@@ -76,5 +78,5 @@
     <g transform="translate(396,176)"><rect class="chip" width="112" height="30" rx="6"/><text class="chiptext" x="56" y="20" text-anchor="middle">AI AGENTS</text></g>
   </g>
 
-  <text class="mono" x="44" y="240" fill="#5A7CA8" font-size="12" letter-spacing="2">10 SYSTEMS  //  AWS · AZURE · TERRAFORM · KUBERNETES · AI-DRIVEN OPS</text>
+  <text class="mono" x="44" y="240" fill="#94A3B8" font-size="12" letter-spacing="2">10 SYSTEMS  //  AWS · AZURE · TERRAFORM · KUBERNETES · AI-DRIVEN OPS</text>
 </svg>
