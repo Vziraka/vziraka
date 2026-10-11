@@ -1,5 +1,5 @@
 <picture>
-  <img src="./assets/hero.svg" width="100%" alt="Ensizziyo Ziraka. Cloud, code, and the work between. Cloud DevOps Engineer at SAP NS2." />
+  <img src="./assets/hero.svg?v=signal" width="100%" alt="Ensizziyo Ziraka. Cloud, code, and the work between. Cloud DevOps Engineer at SAP NS2." />
 </picture>
 
 [LinkedIn](https://www.linkedin.com/in/ensizziyo-ziraka/) &nbsp; / &nbsp; [Explore my repositories](https://github.com/Vziraka?tab=repositories)
