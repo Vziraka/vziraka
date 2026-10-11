@@ -1,92 +1,67 @@
-<div align="center">
+<picture>
+  <img src="./assets/hero.svg" width="100%" alt="Ensizziyo Ziraka. Cloud, code, and the work between. Cloud DevOps Engineer at SAP NS2." />
+</picture>
 
-<img src="./assets/hero.svg" width="100%" alt="Ensizziyo Ziraka — Information Systems Security Engineer at SAP NS2" />
+[LinkedIn](https://www.linkedin.com/in/ensizziyo-ziraka/) &nbsp; / &nbsp; [Explore my repositories](https://github.com/Vziraka?tab=repositories)
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+I’m a **Cloud DevOps Engineer at SAP NS2** and an accelerated BS/MS student at **George Mason University**. I build cloud infrastructure, automate security workflows in Python, and put AI to work in operational tools.
 
-</div>
+My work ranges from Terraform and Kubernetes delivery to systems that turn raw alerts into useful context. I care about the parts that make a system usable after the demo: clear permissions, repeatable deployments, observability, and a way to recover when something breaks.
 
-### `~/ whoami`
+## Selected work
 
-Information Systems Security Engineer Intern **@ SAP NS2**, working in a FedRAMP-aligned environment on security-operations automation and cloud compliance. IT & Cybersecurity student at **George Mason University**.
+### 01 / HARBOR
+**Accenture AFC Hackathon winner · October 2026**
 
-I design and ship **production-grade cloud, security, and Kubernetes systems** — end-to-end, entirely in code, with AI woven into the operations layer. What's below isn't a list of tutorials. It's one connected platform: the stack a real engineering team runs on.
+A Navy budget decision-support application with cited AI answers, program comparisons, execution forecasts, and funding scenarios. Six connected ontology object types model four synthetic programs in a $100M demonstration portfolio. Evidence checks, historical scorecards, and executive briefs make recommendations easier to inspect.
 
-<div align="center">
+<sub>Palantir Foundry · Ontology modeling · AI decision support</sub>
 
-#### ◤ ARSENAL ◢
+### 02 / [From commit to ECS Fargate](https://github.com/Vziraka/fullstack-cicd-pipeline)
+A four-job delivery pipeline: Jest tests, Docker builds, Trivy scans, and deployment to AWS through OIDC. Staging deploys automatically; production requires approval. Claude generates a deployment summary with rollback instructions.
 
-![AWS](https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=22D3EE)
-![Azure](https://img.shields.io/badge/Azure-0F172A?style=flat-square&logo=microsoftazure&logoColor=22D3EE)
-![Terraform](https://img.shields.io/badge/Terraform-0F172A?style=flat-square&logo=terraform&logoColor=22D3EE)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&logo=kubernetes&logoColor=22D3EE)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=22D3EE)
-![Helm](https://img.shields.io/badge/Helm-0F172A?style=flat-square&logo=helm&logoColor=22D3EE)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?style=flat-square&logo=githubactions&logoColor=22D3EE)
-![Prometheus](https://img.shields.io/badge/Prometheus-0F172A?style=flat-square&logo=prometheus&logoColor=22D3EE)
-![Grafana](https://img.shields.io/badge/Grafana-0F172A?style=flat-square&logo=grafana&logoColor=22D3EE)
-![Splunk](https://img.shields.io/badge/Splunk-0F172A?style=flat-square&logo=splunk&logoColor=22D3EE)
-![Trivy](https://img.shields.io/badge/Trivy-0F172A?style=flat-square&logo=trivy&logoColor=22D3EE)
-![Claude](https://img.shields.io/badge/Claude-0F172A?style=flat-square&logo=anthropic&logoColor=E879F9)
-![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=22D3EE)
-![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=22D3EE)
-![Bash](https://img.shields.io/badge/Bash-0F172A?style=flat-square&logo=gnubash&logoColor=22D3EE)
+<sub>GitHub Actions · Docker · Terraform · ECS Fargate · Trivy</sub>
 
-#### ◤ TELEMETRY ◢
+### 03 / Kubernetes, with an operations layer
+[Microservices platform](https://github.com/Vziraka/k8s-microservices-) and [monitoring stack](https://github.com/Vziraka/monitoring-alerting-stack-): Helm deployment, nginx ingress, and autoscaling from two to five pods. Prometheus, Grafana, and Alertmanager provide visibility; ten incident runbooks document the response. RBAC-scoped AI CronJobs summarize cluster health and classify anomalies.
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Vziraka&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0F172A&title_color=22D3EE&icon_color=E879F9&text_color=94A3B8&ring_color=22D3EE" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vziraka&layout=compact&hide_border=true&bg_color=0F172A&title_color=22D3EE&text_color=94A3B8&langs_count=8" alt="Top languages" />
+<sub>Kubernetes · Helm · Node.js · Prometheus · Grafana · Claude</sub>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vziraka&hide_border=true&background=0F172A&ring=22D3EE&fire=E879F9&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&stroke=334155&sideNums=F8FAFC&currStreakNum=F8FAFC&dayLabels=94A3B8" alt="Contribution streak" />
+### 04 / [Security alerts with context](https://github.com/Vziraka/SOC-automation-project)
+Splunk detections flow through n8n, get enriched with AbuseIPDB threat intelligence, and arrive in Slack with AI-assisted triage, confidence scores, and recommended actions.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<sub>Splunk · n8n · AbuseIPDB · Python · LLM integration</sub>
 
-</div>
+### 05 / Autonomous agents, bounded by design
+Seven specialized agents behind a Next.js Mission Control dashboard with heartbeats, cost tracking, an approval queue, and an audit log. A $5/day API cap controls spend; external actions require approval. Private project.
 
-## ▚ 01 · CLOUD & PLATFORM ENGINEERING
+<sub>Python · Next.js · Claude Sonnet · Gemini Flash</sub>
 
-▸ **[Full-Stack CI/CD Pipeline → ECS Fargate](https://github.com/Vziraka/fullstack-cicd-pipeline)** — 4-job GitHub Actions pipeline: Jest → multi-stage Docker → Trivy CVE gate → **OIDC to AWS (zero static keys)** → ECR → ECS staging → prod behind a manual approval gate. Every deploy auto-writes a stakeholder summary via Claude. All infra in Terraform.
+**Also:** [Reusable AWS Terraform modules](https://github.com/Vziraka/terraform-starter-kit) · [Azure SOC lab](https://github.com/Vziraka/Azure-SOC-HomeLab)
 
-▸ **[Serverless AI Document API](https://github.com/Vziraka/serverless-ai-api-)** — PDF → presigned S3 upload (the Lambda never touches the bytes) → Claude extracts summary + topics → DynamoDB. Cognito JWT auth, Secrets Manager rotation, SQS DLQ, 22 unit tests, zero hardcoded credentials.
+## Experience
 
-▸ **[Terraform Starter Kit — Secure 3-Tier AWS](https://github.com/Vziraka/terraform-starter-kit)** — Modular Terraform: 2-AZ VPC, bastion, defense-in-depth security groups, least-privilege IAM, encrypted RDS, versioned S3. Remote state in S3 + DynamoDB locking, isolated dev/prod.
+| When | Where | Work |
+| :--- | :--- | :--- |
+| Mar 2026–present | **SAP NS2** · Cloud DevOps Engineer | Layered Terraform infrastructure, ArgoCD delivery on SAP Gardener, Ansible deployments, offline-safe repository checks, and an AI onboarding assistant in a FedRAMP-aligned environment. |
+| Jul 2024–Apr 2026 | **Apple** · Network Engineer | Connectivity and authentication troubleshooting, MDM provisioning, root-cause analysis, and escalation runbooks. |
+| Aug 2025–Apr 2026 | **GMU Biomedical Robotics Lab** · Research Assistant | Python data collection and actuator characterization for an IEEE-published hand-exoskeleton study. |
 
-▸ **[AI Cost-Optimization Dashboard](https://github.com/Vziraka/cost-optimization-dashboard)** — Weekly EventBridge → Lambda pulls Cost Explorer spend → DynamoDB trends → Claude flags >20% week-over-week jumps and posts the top 3 savings to Slack `#finops`.
+## Tools I work with
 
-## ▚ 02 · KUBERNETES & OBSERVABILITY
+**Code** — Python, Bash, PowerShell, JavaScript / Node.js, HCL, SQL  
+**Infrastructure** — AWS, Azure, Terraform, Ansible, Docker, Kubernetes, Helm, ArgoCD  
+**Operations** — Splunk, Sentinel / KQL, Trivy, Prometheus, Grafana, n8n  
+**AI** — Claude API, multi-agent workflows, RAG with OpenSearch
 
-▸ **[K8s Microservices Platform](https://github.com/Vziraka/k8s-microservices-)** — 2 Node.js services, nginx ingress, HPA autoscaling 2→5 pods, one-command Helm chart. An AI health CronJob reads cluster state via read-only RBAC → Claude → GREEN/YELLOW/RED to Slack every 5 min.
+## Education & credentials
 
-▸ **[Monitoring & Alerting Stack](https://github.com/Vziraka/monitoring-alerting-stack-)** — Full observability via kube-prometheus-stack: Prometheus RED metrics, Grafana, Alertmanager → Slack with runbook links. An AI anomaly CronJob classifies severity so it only pings when something's actually wrong. 10 incident runbooks.
+**George Mason University** · Accelerated BS/MS  
+B.S. Information Technology, Cyber Security + M.S. Cybersecurity Engineering  
+Expected December 2026 · GPA 3.5
 
-## ▚ 03 · SECURITY OPERATIONS & RESILIENCE
+AWS Certified DevOps Engineer – Professional · Claude Certified Developer · Palantir Foundry Aware
 
-▸ **[SOC Automation Pipeline — Splunk + n8n + AI](https://github.com/Vziraka/SOC-automation-project)** — End-to-end SOAR: Splunk detects → n8n orchestrates → AbuseIPDB enriches → AI writes analyst-ready triage → Slack. Manual triage driven to near-zero.
+---
 
-▸ **[Azure SOC Homelab](https://github.com/Vziraka/Azure-SOC-HomeLab)** — Microsoft Sentinel + Log Analytics, KQL detections for failed logons (Event ID 4625), geo-mapped attack visualization via Watchlists.
-
-▸ **[Disaster Recovery & Security Posture](https://github.com/Vziraka/disaster-recovery-system)** — Cross-region AWS Backup (RDS + S3 → us-west-2), Security Hub (CIS + FSBP), and a Lambda that turns findings into a plain-English posture report every 6h.
-
-## ▚ 04 · AUTONOMOUS AI SYSTEMS
-
-▸ **AI Agent System** *(private)* — 24/7 autonomous infrastructure: specialized agents (Intel, Research, Developer, R&D Debate Council) behind a Next.js Mission Control with live heartbeats, cost tracking, and an approval queue. Hard security guardrails and a daily API spend cap.
-
-<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
-
-## ▚ CURRENT ROLE
-
-**Information Systems Security Engineer Intern · SAP NS2**
-Security-operations automation, security-tool integration via APIs, and vulnerability-management & compliance monitoring in a FedRAMP-aligned environment.
-
-## ▚ CERTIFICATIONS & TRAINING
-
-![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-0F172A?style=flat-square&logo=comptia&logoColor=E879F9&labelColor=0F172A)
-![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity-Certified-0F172A?style=flat-square&logo=google&logoColor=22D3EE&labelColor=0F172A)
-![AWS Educate](https://img.shields.io/badge/AWS%20Educate-Cloud%20%26%20Security-0F172A?style=flat-square&logo=amazonaws&logoColor=22D3EE&labelColor=0F172A)
-![KodeKloud](https://img.shields.io/badge/KodeKloud-DevOps%20Labs-0F172A?style=flat-square&logo=kubernetes&logoColor=22D3EE&labelColor=0F172A)
-
-## ▚ CONNECT
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/ensizziyo-ziraka/)
-
-<div align="center"><sub><code>SOC &amp; Detection Engineering · Cloud Security (AWS/Azure) · Kubernetes Security · DevSecOps · Security Automation</code></sub></div>
+<sub>Cloud infrastructure. Security automation. AI with an operator in the loop.</sub>
